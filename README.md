@@ -1,4 +1,5 @@
-[![Gluten Status](https://img.shields.io/badge/Gluten-Free-green.svg)
+[
+![Gluten Status](https://img.shields.io/badge/Gluten-Free-green.svg)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 
 # Sign up
