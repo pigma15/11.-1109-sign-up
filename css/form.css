@@ -23,6 +23,12 @@
             width: 100%;
             font-size: 18px;
             line-height: 25px;
+            border: none;
+            border-bottom: 1px solid grey;
+            outline: grey;
+        }
+        .input:focus {
+            outline: 2px solid grey;
         }
         .form-row > .text {
             display: inline-block;
