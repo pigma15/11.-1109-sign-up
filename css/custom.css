@@ -11,14 +11,22 @@ body {
             display: inline-block;
             width: 40%;
             float: left;
+            padding: 40px;
+            padding-bottom: 20px;
             margin-top: 20px;
             background-color: #0069BA;
+            color: #fff;
         }
             .page-title {
+                display: inline-block;
+                width: 100%;
             }
             .bottom-links {
+                display: inline-block;
+                width: 100%;
             }
                 .bottom-links > .link {
+                    color: #fff;
                 }
                 .bottom-links > .text {
                 }
@@ -31,17 +39,3 @@ body {
         }
             .close {
             }
-            .form {
-            }
-                .form-row {
-                }
-                    .label {
-                    }
-                    .input {
-                    }
-                    .btn {
-                    }
-                    .form-row > .text {
-                    }
-                    .form-row > .link {
-                    }
