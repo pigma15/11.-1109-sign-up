@@ -8,6 +8,8 @@ This project is for educational porpuses only.
 
 Site published at https://github.com/pigma15/11.-1109-sign-up
 
+Link: https://pigma15.github.io/11.-1109-sign-up/
+
 ## Project features
 - position absolute
 - form
